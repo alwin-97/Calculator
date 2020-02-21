@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b34d0e25-c61b-45b8-a26f-81c989db66af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,12 +62,16 @@
       <workItem from="1581853943111" duration="429000" />
       <workItem from="1581861028252" duration="585000" />
       <workItem from="1582120216902" duration="3495000" />
-      <workItem from="1582128133198" duration="5089000" />
+      <workItem from="1582128133198" duration="5679000" />
+      <workItem from="1582302799197" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582133351441">
@@ -80,5 +82,21 @@
       <screen x="0" y="27" width="1920" height="1009" />
     </state>
     <state x="697" y="279" width="515" height="511" key="EnvironmentVariablesDialog/0.27.1920.1009@0.27.1920.1009" timestamp="1582133341554" />
+    <state width="1897" height="237" key="GridCell.Tab.0.bottom" timestamp="1582133816185">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1897" height="237" key="GridCell.Tab.0.bottom/0.27.1920.1009@0.27.1920.1009" timestamp="1582133816185" />
+    <state width="1897" height="237" key="GridCell.Tab.0.center" timestamp="1582133816184">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1897" height="237" key="GridCell.Tab.0.center/0.27.1920.1009@0.27.1920.1009" timestamp="1582133816184" />
+    <state width="1897" height="237" key="GridCell.Tab.0.left" timestamp="1582133816184">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1897" height="237" key="GridCell.Tab.0.left/0.27.1920.1009@0.27.1920.1009" timestamp="1582133816184" />
+    <state width="1897" height="237" key="GridCell.Tab.0.right" timestamp="1582133816184">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1897" height="237" key="GridCell.Tab.0.right/0.27.1920.1009@0.27.1920.1009" timestamp="1582133816184" />
   </component>
 </project>
