@@ -58,6 +58,8 @@
         }
 
         #screen {
+            font-family: Arial,serif;
+            font-size: 38px;
             height: 100px;
             border: 2px solid black;
             box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -66,6 +68,7 @@
     <script>
 
         function one() {
+            vibrataion();
             var data = document.getElementById('screen').innerHTML;
             document.getElementById('screen').innerHTML = data + 1;
         }
@@ -175,6 +178,10 @@
             num = parseFloat(document.getElementById('screen').innerHTML);
             sum = num / 100;
             document.getElementById('screen').innerHTML = sum;
+        }
+
+        function vibrataion() {
+            navigator.vibrate(2000);
         }
     </script>
 </head>
